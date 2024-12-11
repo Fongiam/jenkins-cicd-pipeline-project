@@ -1,4 +1,4 @@
 mvn sonar:sonar \
   -Dsonar.projectKey=jjtech-cicd \
-  -Dsonar.host.url=http://172.31.29.181:9000 \
-  -Dsonar.login=af4d77c14b6248548935ca72d9cdaf4170aeee65
+  -Dsonar.host.url=http://172.31.89.31:9000 \
+  -Dsonar.login=3644b85c09e548121c5d378fc4932d764c5c436b
